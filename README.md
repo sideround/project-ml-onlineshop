@@ -2,8 +2,7 @@
 
 ## Context
 
-### Data Set Information:
-
+### Dataset information:
 The dataset consists of feature vectors belonging to 12,330 sessions.
 The dataset was formed so that each session
 would belong to a different user in a 1-year period to avoid
@@ -32,7 +31,7 @@ Weekend: Weekend or not
 Revenue: Revenue will be generated or not
 
 
-### Attribute Information:
+### Atribute Information:
 
 The dataset consists of 10 numerical and 8 categorical attributes.
 The 'Revenue' attribute can be used as the class label.
