@@ -1,5 +1,9 @@
 # Module 3 - Project 2 (ML) - Revenue | No Revenue
 
+
+## Question
+What if that possible to predict revenue on an online shop?
+
 ## Context
 
 ### Dataset information:
@@ -45,5 +49,4 @@ Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018).
 https://www.kaggle.com/roshansharma/online-shoppers-intention#online_shoppers_intention.csv
 The dataset of this project has been changed for educational purposes.
 
-## Question
-What if that possible to predict revenue on an online shop?
+
